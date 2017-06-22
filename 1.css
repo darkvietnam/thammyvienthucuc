@@ -1,0 +1,461 @@
+*{margin: 0; padding: 0;}
+
+img.img-tuyendung {
+    width: 100%;
+    margin: 20px 0px;
+}
+
+.col-sm-12.tuyendung {font-family: 'Roboto', sans-serif;}
+.demoslide {
+        margin-top: 100px;
+        width: 500px;
+        margin: 0 auto;
+        height: 200px;
+       
+    }
+input#formGroupExampleInput4 {
+}
+
+a.btn.btn-primary.active {
+    margin-bottom: 15px;
+    margin-left: 262px;
+    padding: 15px 20px;
+    font-size: 17px;
+    font-weight: bold;
+    background: #fd2c66;
+    border-color: #fd2c66;
+}
+
+.titlelienhe {
+    font-family: 'Lobster', cursive;
+    background: white;
+    text-align: center;
+    margin-bottom: 26px;
+    padding: 8px;
+    font-size: 25px;
+}
+
+form.boxlienhe {
+    background: #a3fffb;
+    padding: 0px 10px;
+    color: #7d5858;
+}
+
+label {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+
+form.form-inline.canchinh {
+    float: right;
+    margin-right: 5%;
+    margin-top: 50px;
+}
+
+input#inlineFormInput {
+}
+
+i.fa.fa-search.nut-search {
+    font-size: 25px;
+    color: #fd2c66;
+    padding-top: 5px;
+}
+
+.rightfooter {
+    text-transform: uppercase;
+    color: white;
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+
+img.gioithieuhinh {
+    width: 60%;
+    margin-left: 215px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.gioithieu h2 {
+    text-align: center;
+    border-bottom: 1px solid #277D3E;
+    width: 50%;
+    color: #277D3E;
+    padding-bottom: 15px;
+    margin-left: 25%;
+}
+
+p.daude {
+    color: grey;
+}
+
+.gioithieu {
+    font-family: 'Lobster', cursive;
+    margin-top: 50px;
+}
+
+.danhsachkhachhang h3 {
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 20px;
+    background: #cac41b;
+    width: 50%;
+    text-align: center;
+    border-radius: 40%;
+}
+
+.danhsachkhachhang {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+img.img-fluid {
+    width: auto;
+    height: 482px!important;
+}
+
+img.img-fluid {}
+
+img.hoptac {
+    width: 80%;
+    margin-left: 15px;
+}
+
+.hotsodienthoai {
+    float: left;
+    font-weight: 500;
+    color: #d02626;
+}
+
+.hotline {
+    color: #6e57a7;
+    font-size: 28px;
+    margin-top: 15px;
+}
+
+i.fa.fa-phone-square.nuthotline {
+    float: left;
+    margin-right: 10px;
+    font-size: 40px;
+}
+
+.hoptacvshot {
+    float: right;
+    margin-right: 117px;
+    margin-top: -6px;
+}
+
+img.logophu {
+    margin-left: 130px;
+}
+
+.onedangkhuyenmai p {
+    text-align: center;
+    =: #1d2503
+    font-weight:;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.onedangkhuyenmai {
+    padding: 0px 20px;
+}
+
+img.img-dangkhuyenmai {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.titledangkhuyenmai {
+    background: white;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+.dangkhuyenmai {
+    background: #a3fffb;
+    padding: 20px 0px;
+    margin: 20px 0px;
+}
+
+h3.title-tuyendung {
+    color: red;
+    margin: 20px 0px 40px 0px;
+    text-align: center;
+    line-height: 1.5;
+    font-family: 'Lobster', cursive;
+    border-bottom: 1px dashed;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.mmnenu li.nav-item a.nav-link {
+    color: white;
+}
+
+
+.thoigianlamviec {
+    border: 1px dashed gray;
+    padding: 20px;
+    width: 74%;
+    
+}
+
+.titlemo {
+    color: gray;
+}
+
+.footer-center {
+    color: white;
+}
+
+.centerfooterto {
+    font-size: 20px;
+    margin-bottom: 44px;
+}
+
+.footer-info {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.tenfooterto {
+    font-size: 20px;
+}
+
+.footer-left {
+    color: white;
+}
+
+.footer {
+    background: url(images/footer.png);
+    padding: 20px 0px;
+}
+
+.tieudenhanvientuvan {
+    text-align: center;
+    margin-bottom: 40px;
+    background: white;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+}
+
+.textnv {
+    width: 70%;
+    text-align: center;
+    margin-left: 15%;
+}
+
+.onenhanvien p {
+    background: url(images/bg-nhanviendown.png) no-repeat bottom center;
+    text-align: center;
+    line-height: 1.5;
+    padding: 5px 30px 30px 30px;
+}
+
+.nhanvientuvan {
+    background: #a3fffb;
+    padding: 10px 0px;
+    margin: 20px 0px;
+}
+
+.tennhanvien {
+    text-align: center;
+    padding-top: 28px;
+    margin-bottom: 10px;
+    background: url(images/bg-nhanvien.png) no-repeat top center;
+    font-family: tahoma;
+    font-weight: bold;
+}
+
+img.hinhnhanvien {
+    margin-left: 100px;
+}
+
+.onedichvusdnhieu {
+    width: 100%;
+    overflow: hidden;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.61);
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 20px 0px;
+}
+
+.onedichvusdnhieu:last-child {
+    border: 0;
+}
+
+.onedichvusdnhieu p {}
+
+.onedichvusdnhieu .title-dichvusdnhieu {
+    float: left;
+    width: 60%;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+img.img-dichvusdnhieu {
+    float: left;
+    width: 250px;
+    margin-right: 20px;
+}
+
+p.box-dichvunhieu {
+    text-transform: capitalize;
+    font-size: 35px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid gray;
+    width: 60%;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+p.box-dichvunhieu {}
+
+p.box-dichvumoi {
+    text-transform: capitalize;
+    font-size: 35px;
+    border-bottom: 2px solid gray;
+    padding-bottom: 10px;
+    width:50%;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+.onedichvumoi p {
+    padding: 10px;
+}
+
+.onedichvumoi {
+    box-shadow: 1px 1px 5px 1px grey;
+}
+
+img.img-dichvumoi {
+    width: 100%;
+}
+
+.title-dichvumoi {
+    width: 100%;
+    background: #e88ae1;
+    color: white;
+    padding: 0px 5px;
+}
+
+.khuyenmai p {
+    text-align: center;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.thoigian {
+    position: absolute;
+    top: 0%;
+    right: 4%;
+    background: #e81010;
+    padding: 3px 5px;
+    border-radius: 6px;
+    color: wheat;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.col-sm-4.khuyenmai {
+    position: relative;
+}
+
+img.img-dichvu {
+    box-shadow: 1px 1px 5px 1px #cec0c0;
+    width: 100%;
+}
+
+.dichvukhuyenmai {
+    text-transform: capitalize;
+    border-bottom: 2px solid gray;
+    padding: 17px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.top {
+    height: 115px;
+    background: #fee3f2;
+}
+
+ul.menu-level {
+    position: absolute;
+    top: 0px;
+    right: -40%;
+    display: none;
+    z-index: 6;
+    list-style: none;
+    background: #fd2c66;
+}
+
+.menusubsub {
+    position: relative;
+    width: 100%;
+}
+
+nav.navbar.navbar-light.bg-faded.menutop {
+    padding: 0;
+    background: #fd2c66;
+}
+
+li.nav-item {
+    padding: 5px 10px;
+    position: relative;
+}
+
+.navbar-nav li.nav-item:hover {
+    background: white;
+}
+
+.navbar-nav li.nav-item:hover a.nav-link {
+    color: #19040a;
+}
+
+.mmenu li.nav-item:hover ul.menu-dropdown {
+    opacity:1;
+    display:flex;
+    top:50px;
+}
+li.sub-menu {width: 100%;border-bottom: 1px solid white;top: 16px;}
+
+li.sub-menu:hover .menu-level {
+    display: block;
+}
+
+li.sub-menu.submenu-level {}
+
+li.sub-menu:hover {
+    background: black;
+}
+
+ul.menu-dropdown {}
+
+.sub-menu a {
+    padding: 2px 10px;
+    color: white;
+    text-decoration: none;
+}
+
+li>.menu-dropdown {
+    display:none;
+    position: absolute;
+    list-style: none;
+    background: #fd2c66;
+    flex-direction: column;
+    align-items: left;
+    width: 300px;
+    left: 0px;
+    opacity:0;
+    transition: 1s;
+    top: 0;
+    z-index: 9999999999;
+} 
